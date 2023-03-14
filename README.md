@@ -1,14 +1,12 @@
 ### Hello, Wordl! 👋
 
-This is Sumanth Yalamarty. I am currently a student at the National University of Singapore. 
+This is Sumanth Yalamarty. 
 
-I believe in "Ideation, Innovation, and Transformation". 
+"Ideation, Innovation, and Transformation" 
 
-You can check out my blog at : [s7manth.me](https://s7manth.me)
+You can check out my blog at: [s7manth.me](https://s7manth.me)
 
-Feel free to reach out to me via email for business enquiries. 
-
-Email address : syalamarty002 [at] gmail [dot] com
+Email address: syalamarty002 [at] gmail [dot] com
 
 <!--
 **s7manth/s7manth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
