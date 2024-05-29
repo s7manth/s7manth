@@ -4,9 +4,7 @@ This is Sumanth Yalamarty.
 
 "Ideation, Innovation, and Transformation" 
 
-You can check out my blog at: [s7manth.me](https://s7manth.me)
-
-You can also check out the podcast I host at: [weneedtotalk.site](https://www.weneedtotalk.site)
+Check out my blog at: [s7manth.me](https://s7manth.me)
 
 Email address: syalamarty002 [at] gmail [dot] com
 
