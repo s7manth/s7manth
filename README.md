@@ -2,13 +2,12 @@
 
 This is Sumanth Yalamarty. 
 
-What I believe in: 
-"Ideation, Innovation, and Transformation" 
+What I believe in: "Ideation, Innovation, and Transformation"
 
-What I am after: 
-Building the future, one day at a time 
+What I am after: Building the future, one day at a time
 
 Check out my blog at: [s7manth.me](https://s7manth.me)
+
 Email address: syalamarty002 [at] gmail [dot] com
 
 <!--
